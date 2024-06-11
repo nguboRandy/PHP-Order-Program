@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Your CSS styles here */
+  </style>
+</head>
+<body>
+Error: Sorry, we do not have 3 apple in stock.

@@ -1,0 +1,7 @@
+apple	4	5.00
+chicken	2	3.25
+cookie	38	1.25
+milk	9	4.50
+tomato	27	2.50
+bananas	20	2.00
+tinfish	8	10.0
